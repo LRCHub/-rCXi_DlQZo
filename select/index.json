@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "1,000,000☆スマイル",
+  "base_artist": "SUPER☆GiRLS",
+  "createdAt": "2026-03-27T12:55:31.634169Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "1,000,000☆スマイル",
+      "artist": "SUPER☆GiRLS",
+      "has_synced": false,
+      "path": "select/pl_01_1,000,000☆スマイル_SUPER☆GiRLS.txt"
+    }
+  ]
+}
